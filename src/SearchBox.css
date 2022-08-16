@@ -1,0 +1,16 @@
+.input-container {
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 0;
+}
+
+
+.inp{
+    padding: 1.2rem;
+    background-color: rgb(23, 40, 3);
+    border: none;
+    border-radius: 5px;
+    color: white;
+}

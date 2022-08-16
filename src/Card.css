@@ -1,0 +1,17 @@
+.card-container {
+    background-color: darkslategray;
+    width: auto;
+    margin: 1rem;
+    padding: 1rem;
+    text-align: center;
+    color: white;
+}
+
+.card-container h4 {
+    margin-bottom: 0.5rem;
+}
+
+.card-container p {
+    margin: 0;
+    margin-bottom: 0.5rem;
+}
